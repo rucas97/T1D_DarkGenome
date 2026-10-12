@@ -1,0 +1,675 @@
+Ensembl	Symbol	logFC	FDR	Description
+ENSMUSG00000000058	Cav2	1.1785	1.5106e-10	caveolin 2
+ENSMUSG00000000078	Klf6	0.64617	0.00022672	Kruppel-like factor 6
+ENSMUSG00000000126	Wnt9a	1.3648	0.00013504	wingless-type MMTV integration site family, member 9A
+ENSMUSG00000000159	Igsf5	0.76792	4.0048e-06	immunoglobulin superfamily, member 5
+ENSMUSG00000000296	Tpd52l1	0.89539	6.3815e-05	tumor protein D52-like 1
+ENSMUSG00000000305	Cdh4	0.67245	1.2541e-05	cadherin 4
+ENSMUSG00000000394	Gcg	1.7313	0.0026619	glucagon
+ENSMUSG00000000531	Grasp	0.529	0.047213	GRP1 (general receptor for phosphoinositides 1)-associated scaffold protein
+ENSMUSG00000000544	Gpa33	0.79156	0.046113	glycoprotein A33 (transmembrane)
+ENSMUSG00000000594	Gm2a	0.62588	1.1411e-06	GM2 ganglioside activator protein
+ENSMUSG00000000794	Kcnn3	0.66763	8.4996e-06	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 3
+ENSMUSG00000000861	Bcl11a	1.1204	3.347e-08	B cell CLL/lymphoma 11A (zinc finger protein)
+ENSMUSG00000000934	Top1mt	1.0382	2.5185e-05	DNA topoisomerase 1, mitochondrial
+ENSMUSG00000000983	Wfdc18	1.7463	0.012479	WAP four-disulfide core domain 18
+ENSMUSG00000001025	S100a6	1.5918	6.6379e-07	S100 calcium binding protein A6 (calcyclin)
+ENSMUSG00000001131	Timp1	0.868	0.0051721	tissue inhibitor of metalloproteinase 1
+ENSMUSG00000001173	Ocrl	1.0147	1.9607e-18	OCRL, inositol polyphosphate-5-phosphatase
+ENSMUSG00000001334	Fndc5	0.63653	0.0079598	fibronectin type III domain containing 5
+ENSMUSG00000001435	Col18a1	1.5901	1.7728e-07	collagen, type XVIII, alpha 1
+ENSMUSG00000001504	Irx2	1.5977	2.1849e-08	Iroquois related homeobox 2 (Drosophila)
+ENSMUSG00000001918	Slc1a5	0.87096	0.00049327	solute carrier family 1 (neutral amino acid transporter), member 5
+ENSMUSG00000001930	Vwf	2.5243	1.1444e-06	Von Willebrand factor
+ENSMUSG00000001948	Spa17	0.55224	0.015311	sperm autoantigenic protein 17
+ENSMUSG00000001986	Gria3	1.0063	1.1707e-12	glutamate receptor, ionotropic, AMPA3 (alpha 3)
+ENSMUSG00000002233	Rhoc	0.62954	7.7851e-05	ras homolog family member C
+ENSMUSG00000002458	Rgs19	0.74513	0.0022664	regulator of G-protein signaling 19
+ENSMUSG00000002808	Epdr1	0.81984	2.3891e-05	ependymin related protein 1 (zebrafish)
+ENSMUSG00000002881	Nab1	0.73392	5.1663e-10	Ngfi-A binding protein 1
+ENSMUSG00000002985	Apoe	0.97025	8.1456e-07	apolipoprotein E
+ENSMUSG00000003273	Car11	1.2509	0.0078217	carbonic anhydrase 11
+ENSMUSG00000003617	Cp	2.4852	9.5826e-06	ceruloplasmin
+ENSMUSG00000003644	Rps6ka1	0.54654	0.049068	ribosomal protein S6 kinase polypeptide 1
+ENSMUSG00000004035	Gstm7	1.0226	6.1717e-05	glutathione S-transferase, mu 7
+ENSMUSG00000004085	Map3k20	0.68041	6.225e-07	mitogen-activated protein kinase kinase kinase 20
+ENSMUSG00000004151	Etv1	1.7025	3.8169e-28	ets variant 1
+ENSMUSG00000004317	Clcn5	0.79883	4.5618e-15	chloride channel, voltage-sensitive 5
+ENSMUSG00000004366	Sst	1.1627	0.0045413	somatostatin
+ENSMUSG00000004383	Large1	1.0253	6.4524e-07	LARGE xylosyl- and glucuronyltransferase 1
+ENSMUSG00000004508	Gab2	0.59276	6.1282e-06	growth factor receptor bound protein 2-associated protein 2
+ENSMUSG00000004951	Hspb1	0.8934	0.0077538	heat shock protein 1
+ENSMUSG00000005045	Chd5	0.86103	4.3217e-13	chromodomain helicase DNA binding protein 5
+ENSMUSG00000005087	Cd44	1.0322	3.0383e-21	CD44 antigen
+ENSMUSG00000005124	Wisp1	0.86386	0.0044544	WNT1 inducible signaling pathway protein 1
+ENSMUSG00000005583	Mef2c	0.90239	1.2015e-08	myocyte enhancer factor 2C
+ENSMUSG00000005686	Ampd3	1.0195	0.00011542	adenosine monophosphate deaminase 3
+ENSMUSG00000005836	Gata6	1.3644	1.3122e-09	GATA binding protein 6
+ENSMUSG00000005973	Rcn1	0.61679	9.5694e-08	reticulocalbin 1
+ENSMUSG00000006356	Crip2	0.66091	0.010002	cysteine rich protein 2
+ENSMUSG00000006373	Pgrmc1	0.50299	3.1229e-06	progesterone receptor membrane component 1
+ENSMUSG00000006546	Cryba2	0.85248	5.9561e-12	crystallin, beta A2
+ENSMUSG00000006586	Runx1t1	0.82131	1.1296e-12	runt-related transcription factor 1; translocated to, 1 (cyclin D-related)
+ENSMUSG00000006611	Hfe	0.74882	1.0709e-06	hemochromatosis
+ENSMUSG00000006800	Sulf2	1.1248	9.1457e-08	sulfatase 2
+ENSMUSG00000008136	Fhl2	1.0104	0.0015187	four and a half LIM domains 2
+ENSMUSG00000008305	Tle1	0.55	1.5303e-06	transducin-like enhancer of split 1
+ENSMUSG00000008461	Fut1	3.4556	1.0571e-13	fucosyltransferase 1
+ENSMUSG00000008575	Nfib	1.1721	3.4915e-07	nuclear factor I/B
+ENSMUSG00000009092	Derl3	0.93118	1.8182e-05	Der1-like domain family, member 3
+ENSMUSG00000009376	Met	0.64872	1.34e-08	met proto-oncogene
+ENSMUSG00000010175	Prox1	0.62836	9.5484e-07	prospero homeobox 1
+ENSMUSG00000011034	Slc5a1	1.5069	0.00029143	solute carrier family 5 (sodium/glucose cotransporter), member 1
+ENSMUSG00000012017	Scarf2	1.3252	7.6147e-05	scavenger receptor class F, member 2
+ENSMUSG00000012350	Ehf	1.6245	1.3407e-23	ets homologous factor
+ENSMUSG00000013089	Etv5	1.717	3.7028e-38	ets variant 5
+ENSMUSG00000015133	Lrrk1	1.0151	0.0003862	leucine-rich repeat kinase 1
+ENSMUSG00000015134	Aldh1a3	3.7162	5.1702e-73	aldehyde dehydrogenase family 1, subfamily A3
+ENSMUSG00000015217	Hmgb3	0.61697	0.0040228	high mobility group box 3
+ENSMUSG00000015305	Sash1	0.50181	0.0022388	SAM and SH3 domain containing 1
+ENSMUSG00000015405	Ace2	1.1774	1.068e-25	angiotensin I converting enzyme (peptidyl-dipeptidase A) 2
+ENSMUSG00000015599	Ttbk1	1.2114	0.0023331	tau tubulin kinase 1
+ENSMUSG00000015709	Arnt2	0.8081	4.568e-09	aryl hydrocarbon receptor nuclear translocator 2
+ENSMUSG00000016024	Lbp	1.4059	3.426e-07	lipopolysaccharide binding protein
+ENSMUSG00000016028	Celsr1	1.594	0.00014077	cadherin, EGF LAG seven-pass G-type receptor 1
+ENSMUSG00000016344	Ppdpf	0.56351	0.0046165	pancreatic progenitor cell differentiation and proliferation factor
+ENSMUSG00000016346	Kcnq2	1.301	1.6055e-16	potassium voltage-gated channel, subfamily Q, member 2
+ENSMUSG00000016349	Eef1a2	1.7434	1.5645e-11	eukaryotic translation elongation factor 1 alpha 2
+ENSMUSG00000016382	Pls3	0.87321	7.5988e-11	plastin 3 (T-isoform)
+ENSMUSG00000016386	Mpped2	0.6265	0.0099485	metallophosphoesterase domain containing 2
+ENSMUSG00000016477	E2f3	0.5571	0.012615	E2F transcription factor 3
+ENSMUSG00000016487	Ppfibp1	0.83616	2.2323e-15	PTPRF interacting protein, binding protein 1 (liprin beta 1)
+ENSMUSG00000016918	Sulf1	1.3381	0.00077065	sulfatase 1
+ENSMUSG00000017009	Sdc4	0.9378	4.7083e-06	syndecan 4
+ENSMUSG00000017144	Rnd3	0.82739	0.0014095	Rho family GTPase 3
+ENSMUSG00000017165	Gast	1.7729	0.0023865	gastrin
+ENSMUSG00000017311	Pyy	1.476	1.3979e-09	peptide YY
+ENSMUSG00000017314	Mpp2	0.83318	5.319e-06	membrane protein, palmitoylated 2 (MAGUK p55 subfamily member 2)
+ENSMUSG00000017316	Ppy	1.4305	1.0858e-05	pancreatic polypeptide
+ENSMUSG00000017405	Nek8	0.73567	0.044464	NIMA (never in mitosis gene a)-related expressed kinase 8
+ENSMUSG00000017466	Timp2	1.1502	6.8806e-12	tissue inhibitor of metalloproteinase 2
+ENSMUSG00000017485	Top2b	0.60379	3.0295e-07	topoisomerase (DNA) II beta
+ENSMUSG00000017493	Igfbp4	1.162	5.4901e-13	insulin-like growth factor binding protein 4
+ENSMUSG00000017978	Cadps2	0.60083	0.00017732	Ca2+-dependent activator protein for secretion 2
+ENSMUSG00000018166	Erbb3	1.1698	2.3923e-05	erb-b2 receptor tyrosine kinase 3
+ENSMUSG00000018339	Gpx3	1.6243	1.478e-11	glutathione peroxidase 3
+ENSMUSG00000018395	Kif3a	0.56034	8.586e-05	kinesin family member 3A
+ENSMUSG00000018411	Mapt	1.1208	1.6305e-22	microtubule-associated protein tau
+ENSMUSG00000018417	Myo1b	0.74506	4.2617e-09	myosin IB
+ENSMUSG00000018451	6330403K07Rik	1.5752	3.719e-09	RIKEN cDNA 6330403K07 gene
+ENSMUSG00000018849	Wwc1	1.6345	1.5095e-10	WW, C2 and coiled-coil domain containing 1
+ENSMUSG00000018865	Sult4a1	0.98956	1.3156e-06	sulfotransferase family 4A, member 1
+ENSMUSG00000019368	Sec14l4	0.94175	1.8592e-05	SEC14-like lipid binding 4
+ENSMUSG00000019647	Sema6a	1.2565	9.1499e-08	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6A
+ENSMUSG00000019832	Rab32	1.0991	0.023226	RAB32, member RAS oncogene family
+ENSMUSG00000019889	Ptprk	1.0486	2.1849e-08	protein tyrosine phosphatase, receptor type, K
+ENSMUSG00000019913	Sim1	1.1001	4.4103e-11	single-minded homolog 1 (Drosophila)
+ENSMUSG00000019947	Arid5b	1.3003	7.6212e-11	AT rich interactive domain 5B (MRF1-like)
+ENSMUSG00000020048	Hsp90b1	0.82325	0.0089014	heat shock protein 90, beta (Grp94), member 1
+ENSMUSG00000020052	Ascl1	2.9205	1.4569e-07	achaete-scute family bHLH transcription factor 1
+ENSMUSG00000020253	Ppm1m	0.62254	0.013712	protein phosphatase 1M
+ENSMUSG00000020282	Rhbdf1	0.94475	0.005397	rhomboid 5 homolog 1
+ENSMUSG00000020326	Ccng1	0.70189	2.1922e-07	cyclin G1
+ENSMUSG00000020333	Acsl6	1.3276	3.1535e-08	acyl-CoA synthetase long-chain family member 6
+ENSMUSG00000020562	Efcab10	0.91703	0.0083027	EF-hand calcium binding domain 10
+ENSMUSG00000020573	Pik3cg	0.62179	0.0323	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+ENSMUSG00000020592	Sdc1	1.2775	0.0014311	syndecan 1
+ENSMUSG00000020599	Rgs9	0.54977	7.3927e-05	regulator of G-protein signaling 9
+ENSMUSG00000020607	Fam84a	1.3587	3.5901e-06	family with sequence similarity 84, member A
+ENSMUSG00000020620	Abca8b	0.69778	4.7184e-06	ATP-binding cassette, sub-family A (ABC1), member 8b
+ENSMUSG00000020650	Bcap29	0.77193	0.0008708	B cell receptor associated protein 29
+ENSMUSG00000020654	Adcy3	0.59784	0.0092594	adenylate cyclase 3
+ENSMUSG00000020715	Ern1	0.53989	1.6707e-05	endoplasmic reticulum (ER) to nucleus signalling 1
+ENSMUSG00000020865	Abcc3	1.0786	0.00013426	ATP-binding cassette, sub-family C (CFTR/MRP), member 3
+ENSMUSG00000021032	Ngb	0.74606	0.018686	neuroglobin
+ENSMUSG00000021061	Sptb	0.78397	5.7756e-06	spectrin beta, erythrocytic
+ENSMUSG00000021071	Trim9	0.65755	7.0553e-06	tripartite motif-containing 9
+ENSMUSG00000021087	Rtn1	1.3093	3.7485e-11	reticulon 1
+ENSMUSG00000021097	Clmn	1.2729	1.2128e-07	calmin
+ENSMUSG00000021136	Smoc1	2.9225	2.9751e-55	SPARC related  modular calcium binding 1
+ENSMUSG00000021182	Ccdc88c	0.95922	1.5218e-05	coiled-coil domain containing 88C
+ENSMUSG00000021185	9030617O03Rik	1.0071	4.4503e-08	RIKEN cDNA 9030617O03 gene
+ENSMUSG00000021379	Id4	1.0126	0.00087354	inhibitor of DNA binding 4
+ENSMUSG00000021553	Slc28a3	1.5663	2.5185e-05	solute carrier family 28 (sodium-coupled nucleoside transporter), member 3
+ENSMUSG00000021556	Golm1	0.6941	1.2556e-07	golgi membrane protein 1
+ENSMUSG00000021614	Vcan	1.0835	1.1521e-05	versican
+ENSMUSG00000021662	Arhgef28	0.55031	3.5201e-05	Rho guanine nucleotide exchange factor (GEF) 28
+ENSMUSG00000021676	Iqgap2	0.59941	2.6334e-05	IQ motif containing GTPase activating protein 2
+ENSMUSG00000021684	Pde8b	0.8522	0.0030926	phosphodiesterase 8B
+ENSMUSG00000021699	Pde4d	1.0215	3.675e-12	phosphodiesterase 4D, cAMP specific
+ENSMUSG00000021700	Rab3c	1.2433	2.009e-15	RAB3C, member RAS oncogene family
+ENSMUSG00000021708	Rasgrf2	1.7609	1.524e-53	RAS protein-specific guanine nucleotide-releasing factor 2
+ENSMUSG00000021745	Ptprg	1.075	6.6045e-20	protein tyrosine phosphatase, receptor type, G
+ENSMUSG00000021795	Sftpd	1.7356	3.7932e-12	surfactant associated protein D
+ENSMUSG00000021823	Vcl	0.60244	1.4806e-06	vinculin
+ENSMUSG00000021943	Gdf10	2.2799	5.6492e-10	growth differentiation factor 10
+ENSMUSG00000022012	Enox1	0.52403	0.01061	ecto-NOX disulfide-thiol exchanger 1
+ENSMUSG00000022014	Epsti1	1.4728	0.0023895	epithelial stromal interaction 1 (breast)
+ENSMUSG00000022037	Clu	1.2003	4.4984e-05	clusterin
+ENSMUSG00000022074	Tnfrsf10b	0.61635	0.029535	tumor necrosis factor receptor superfamily, member 10b
+ENSMUSG00000022099	Dmtn	1.1701	0.00016313	dematin actin binding protein
+ENSMUSG00000022114	Spry2	0.61473	0.0016628	sprouty homolog 2 (Drosophila)
+ENSMUSG00000022261	Sdc2	0.92163	3.6078e-08	syndecan 2
+ENSMUSG00000022270	Fam134b	1.3404	3.8684e-14	family with sequence similarity 134, member B
+ENSMUSG00000022297	Fzd6	0.55995	0.0083127	frizzled class receptor 6
+ENSMUSG00000022329	Stk3	0.8104	1.0822e-07	serine/threonine kinase 3
+ENSMUSG00000022468	Endou	1.8191	8.6131e-06	endonuclease, polyU-specific
+ENSMUSG00000022508	Bcl6	0.71651	0.00066047	B cell leukemia/lymphoma 6
+ENSMUSG00000022523	Fgf12	1.3047	2.5563e-20	fibroblast growth factor 12
+ENSMUSG00000022636	Alcam	0.97188	6.9007e-14	activated leukocyte cell adhesion molecule
+ENSMUSG00000022658	Tagln3	1.8328	8.7214e-17	transgelin 3
+ENSMUSG00000022708	Zbtb20	0.55885	0.00018473	zinc finger and BTB domain containing 20
+ENSMUSG00000022747	St3gal6	0.50327	0.00084453	ST3 beta-galactoside alpha-2,3-sialyltransferase 6
+ENSMUSG00000022829	Stxbp5l	0.95962	5.085e-16	syntaxin binding protein 5-like
+ENSMUSG00000022871	Fetub	1.4439	0.0010853	fetuin beta
+ENSMUSG00000022892	App	0.87512	2.4427e-07	amyloid beta (A4) precursor protein
+ENSMUSG00000022912	Pros1	0.9528	7.8756e-07	protein S (alpha)
+ENSMUSG00000023022	Lima1	0.53093	3.4788e-05	LIM domain and actin binding 1
+ENSMUSG00000023067	Cdkn1a	1.9769	2.0157e-15	cyclin-dependent kinase inhibitor 1A (P21)
+ENSMUSG00000023224	Serping1	1.1266	1.7423e-16	serine (or cysteine) peptidase inhibitor, clade G, member 1
+ENSMUSG00000023232	Serinc2	0.77818	0.016455	serine incorporator 2
+ENSMUSG00000023249	Parp3	0.94	0.0028481	poly (ADP-ribose) polymerase family, member 3
+ENSMUSG00000023328	Ache	1.6259	4.0487e-11	acetylcholinesterase
+ENSMUSG00000023827	Agpat4	1.0295	2.2392e-08	1-acylglycerol-3-phosphate O-acyltransferase 4 (lysophosphatidic acid acyltransferase, delta)
+ENSMUSG00000023906	Cldn6	0.62718	0.0010637	claudin 6
+ENSMUSG00000023972	Ptk7	0.58324	0.028969	PTK7 protein tyrosine kinase 7
+ENSMUSG00000024052	Lpin2	0.66993	2.9629e-07	lipin 2
+ENSMUSG00000024085	Man2a1	1.1164	2.7786e-27	mannosidase 2, alpha 1
+ENSMUSG00000024112	Cacna1h	1.1265	1.3744e-07	calcium channel, voltage-dependent, T type, alpha 1H subunit
+ENSMUSG00000024145	Pigf	0.51388	0.03281	phosphatidylinositol glycan anchor biosynthesis, class F
+ENSMUSG00000024232	Bambi	0.59524	2.0779e-06	BMP and activin membrane-bound inhibitor
+ENSMUSG00000024268	Celf4	0.51869	0.0081199	CUGBP, Elav-like family member 4
+ENSMUSG00000024366	Gfra3	1.3407	1.9437e-06	glial cell line derived neurotrophic factor family receptor alpha 3
+ENSMUSG00000024411	Aqp4	1.8943	1.5234e-23	aquaporin 4
+ENSMUSG00000024479	Mal2	1.4107	1.6018e-14	mal, T cell differentiation protein 2
+ENSMUSG00000024486	Hbegf	0.71665	0.00040169	heparin-binding EGF-like growth factor
+ENSMUSG00000024500	Ppp2r2b	0.53361	0.018796	protein phosphatase 2, regulatory subunit B, beta
+ENSMUSG00000024502	Jakmip2	2.1223	1.2187e-09	janus kinase and microtubule interacting protein 2
+ENSMUSG00000024558	Mapk4	1.795	1.3484e-16	mitogen-activated protein kinase 4
+ENSMUSG00000024642	Tle4	0.97127	5.0677e-07	transducin-like enhancer of split 4
+ENSMUSG00000024697	Gna14	1.4706	0.00020236	guanine nucleotide binding protein, alpha 14
+ENSMUSG00000024781	Lipa	0.51252	0.0022275	lysosomal acid lipase A
+ENSMUSG00000024885	Aldh3b1	0.86915	0.00040342	aldehyde dehydrogenase 3 family, member B1
+ENSMUSG00000024986	Hhex	0.9928	2.1621e-10	hematopoietically expressed homeobox
+ENSMUSG00000024990	Rbp4	1.0835	3.2627e-14	retinol binding protein 4, plasma
+ENSMUSG00000025006	Sorbs1	0.83704	3.7555e-09	sorbin and SH3 domain containing 1
+ENSMUSG00000025059	Gk	0.84257	4.0627e-05	glycerol kinase
+ENSMUSG00000025076	Casp7	0.56991	0.00621	caspase 7
+ENSMUSG00000025272	Tro	1.1478	9.0508e-12	trophinin
+ENSMUSG00000025402	Nab2	0.8846	0.00029066	Ngfi-A binding protein 2
+ENSMUSG00000025739	Gng13	2.978	1.0665e-06	guanine nucleotide binding protein (G protein), gamma 13
+ENSMUSG00000025746	Il6	0.89254	0.039756	interleukin 6
+ENSMUSG00000025790	Slco3a1	0.65576	0.0016939	solute carrier organic anion transporter family, member 3a1
+ENSMUSG00000025885	Myo5b	0.51063	0.0022838	myosin VB
+ENSMUSG00000025964	Adam23	0.98537	5.5953e-09	a disintegrin and metallopeptidase domain 23
+ENSMUSG00000026043	Col3a1	1.4991	4.5218e-11	collagen, type III, alpha 1
+ENSMUSG00000026077	Npas2	1.0056	0.00068832	neuronal PAS domain protein 2
+ENSMUSG00000026090	2010300C02Rik	0.58395	0.0001366	RIKEN cDNA 2010300C02 gene
+ENSMUSG00000026110	Mgat4a	0.58569	0.00028128	mannoside acetylglucosaminyltransferase 4, isoenzyme A
+ENSMUSG00000026149	Tm4sf20	3.5067	1.0026e-07	transmembrane 4 L six family member 20
+ENSMUSG00000026249	Serpine2	1.4655	2.4617e-15	serine (or cysteine) peptidase inhibitor, clade E, member 2
+ENSMUSG00000026380	Tfcp2l1	0.69747	0.005029	transcription factor CP2-like 1
+ENSMUSG00000026417	Pigr	0.6856	0.007651	polymeric immunoglobulin receptor
+ENSMUSG00000026425	Srgap2	0.70968	6.6564e-05	SLIT-ROBO Rho GTPase activating protein 2
+ENSMUSG00000026463	Atp2b4	0.65402	2.2631e-09	ATPase, Ca++ transporting, plasma membrane 4
+ENSMUSG00000026471	Mr1	0.72304	9.2996e-06	major histocompatibility complex, class I-related
+ENSMUSG00000026475	Rgs16	1.3786	1.02e-19	regulator of G-protein signaling 16
+ENSMUSG00000026483	Fam129a	2.3229	1.9481e-38	family with sequence similarity 129, member A
+ENSMUSG00000026579	F5	1.4885	4.9313e-18	coagulation factor V
+ENSMUSG00000026604	Ptpn14	0.79669	0.0057427	protein tyrosine phosphatase, non-receptor type 14
+ENSMUSG00000026628	Atf3	1.0852	0.016328	activating transcription factor 3
+ENSMUSG00000026638	Irf6	0.51538	3.0694e-06	interferon regulatory factor 6
+ENSMUSG00000026655	Fam107b	1.5015	3.7015e-09	family with sequence similarity 107, member B
+ENSMUSG00000026728	Vim	1.1215	5.5536e-11	vimentin
+ENSMUSG00000026730	Pter	1.7523	5.1533e-07	phosphotriesterase related
+ENSMUSG00000026737	Pip4k2a	0.70223	1.8732e-05	phosphatidylinositol-5-phosphate 4-kinase, type II, alpha
+ENSMUSG00000026764	Kif5c	0.69197	8.8254e-08	kinesin family member 5C
+ENSMUSG00000026825	Dnm1	0.79676	0.0032128	dynamin 1
+ENSMUSG00000026833	Olfm1	1.1065	1.2252e-16	olfactomedin 1
+ENSMUSG00000026989	Dapl1	2.1456	5.8117e-33	death associated protein-like 1
+ENSMUSG00000027030	Stk39	0.55035	5.8198e-06	serine/threonine kinase 39
+ENSMUSG00000027078	Ube2l6	0.67048	7.7692e-05	ubiquitin-conjugating enzyme E2L 6
+ENSMUSG00000027134	Lpcat4	0.64847	0.040168	lysophosphatidylcholine acyltransferase 4
+ENSMUSG00000027160	Ccdc34	0.61022	0.03115	coiled-coil domain containing 34
+ENSMUSG00000027187	Cat	0.69242	0.0026052	catalase
+ENSMUSG00000027188	Pamr1	0.92135	1.8465e-13	peptidase domain containing associated with muscle regeneration 1
+ENSMUSG00000027199	Gatm	1.0936	5.5396e-15	glycine amidinotransferase (L-arginine:glycine amidinotransferase)
+ENSMUSG00000027238	Frmd5	0.98856	5.1543e-12	FERM domain containing 5
+ENSMUSG00000027316	Gfra4	2.1494	8.6721e-14	glial cell line derived neurotrophic factor family receptor alpha 4
+ENSMUSG00000027329	Spef1	0.5293	0.033813	sperm flagellar 1
+ENSMUSG00000027347	Rasgrp1	1.8255	1.0763e-09	RAS guanyl releasing protein 1
+ENSMUSG00000027350	Chgb	0.65723	0.028899	chromogranin B
+ENSMUSG00000027356	Fermt1	1.287	0.00022863	fermitin family member 1
+ENSMUSG00000027523	Gnas	0.62455	0.028893	GNAS (guanine nucleotide binding protein, alpha stimulating) complex locus
+ENSMUSG00000027533	Fabp5	0.97719	6.4059e-07	fatty acid binding protein 5, epidermal
+ENSMUSG00000027669	Gnb4	0.81638	3.0718e-08	guanine nucleotide binding protein (G protein), beta 4
+ENSMUSG00000027695	Pld1	1.3302	1.9985e-09	phospholipase D1
+ENSMUSG00000027833	Shox2	0.84882	0.011498	short stature homeobox 2
+ENSMUSG00000027860	Vangl1	0.80029	0.00057159	vang-like 1 (van gogh, Drosophila)
+ENSMUSG00000027864	Ptgfrn	1.0016	1.1117e-05	prostaglandin F2 receptor negative regulator
+ENSMUSG00000027962	Vcam1	1.3091	0.0012881	vascular cell adhesion molecule 1
+ENSMUSG00000027971	Ndst4	1.3304	3.765e-14	N-deacetylase/N-sulfotransferase (heparin glucosaminyl) 4
+ENSMUSG00000027993	Trim2	0.80974	4.0487e-11	tripartite motif-containing 2
+ENSMUSG00000028005	Gucy1b3	0.80992	1.0534e-07	guanylate cyclase 1, soluble, beta 3
+ENSMUSG00000028007	Snx7	0.55593	0.0019476	sorting nexin 7
+ENSMUSG00000028020	Glrb	0.64453	1.2349e-07	glycine receptor, beta subunit
+ENSMUSG00000028047	Thbs3	0.76037	0.00020383	thrombospondin 3
+ENSMUSG00000028059	Arhgef2	0.57452	3.2475e-08	rho/rac guanine nucleotide exchange factor (GEF) 2
+ENSMUSG00000028069	Gpatch4	0.69506	0.028614	G patch domain containing 4
+ENSMUSG00000028078	Dclk2	0.6527	0.00024211	doublecortin-like kinase 2
+ENSMUSG00000028150	Rorc	0.68354	4.5419e-07	RAR-related orphan receptor gamma
+ENSMUSG00000028186	Uox	0.91936	0.022316	urate oxidase
+ENSMUSG00000028188	Spata1	0.68204	0.012779	spermatogenesis associated 1
+ENSMUSG00000028207	Asph	0.5059	6.14e-07	aspartate-beta-hydroxylase
+ENSMUSG00000028211	Trp53inp1	0.87979	1.3746e-07	transformation related protein 53 inducible nuclear protein 1
+ENSMUSG00000028329	Xpa	0.50071	0.023861	xeroderma pigmentosum, complementation group A
+ENSMUSG00000028347	Tmeff1	0.93152	6.0582e-06	transmembrane protein with EGF-like and two follistatin-like domains 1
+ENSMUSG00000028356	Ambp	0.83624	2.0884e-07	alpha 1 microglobulin/bikunin
+ENSMUSG00000028358	Zfp618	0.63481	0.00011516	zinc finger protein 618
+ENSMUSG00000028524	Sgip1	0.98039	2.5589e-05	SH3-domain GRB2-like (endophilin) interacting protein 1
+ENSMUSG00000028664	Ephb2	0.90491	0.00030362	Eph receptor B2
+ENSMUSG00000028760	Eif4g3	0.68317	4.3636e-08	eukaryotic translation initiation factor 4 gamma, 3
+ENSMUSG00000028937	Acot7	1.2668	3.4937e-07	acyl-CoA thioesterase 7
+ENSMUSG00000028982	Slc25a33	1.331	6.7378e-07	solute carrier family 25, member 33
+ENSMUSG00000029086	Prom1	0.69471	6.6194e-11	prominin 1
+ENSMUSG00000029093	Sorcs2	1.47	2.4282e-13	sortilin-related VPS10 domain containing receptor 2
+ENSMUSG00000029094	Afap1	0.92832	2.5257e-07	actin filament associated protein 1
+ENSMUSG00000029120	Ppp2r2c	1.4872	4.8571e-14	protein phosphatase 2, regulatory subunit B, gamma
+ENSMUSG00000029121	Crmp1	1.0819	6.1182e-18	collapsin response mediator protein 1
+ENSMUSG00000029189	Sel1l3	1.4071	1.5639e-30	sel-1 suppressor of lin-12-like 3 (C. elegans)
+ENSMUSG00000029223	Uchl1	1.3549	3.7911e-12	ubiquitin carboxy-terminal hydrolase L1
+ENSMUSG00000029304	Spp1	3.1958	2.7207e-28	secreted phosphoprotein 1
+ENSMUSG00000029330	Cds1	0.76199	0.00019708	CDP-diacylglycerol synthase 1
+ENSMUSG00000029359	Tesc	1.0939	0.0030437	tescalcin
+ENSMUSG00000029376	Mthfd2l	0.67381	0.010103	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2-like
+ENSMUSG00000029378	Areg	7.7284	2.4986e-100	amphiregulin
+ENSMUSG00000029380	Cxcl1	1.1292	0.00061672	chemokine (C-X-C motif) ligand 1
+ENSMUSG00000029516	Cit	0.71963	0.00076608	citron
+ENSMUSG00000029602	Rasal1	1.137	0.0018902	RAS protein activator like 1 (GAP1 like)
+ENSMUSG00000029661	Col1a2	1.2628	4.954e-10	collagen, type I, alpha 2
+ENSMUSG00000029675	Eln	1.7229	0.0057621	elastin
+ENSMUSG00000029718	Pcolce	1.0028	0.00027592	procollagen C-endopeptidase enhancer protein
+ENSMUSG00000029761	Cald1	0.9168	4.2185e-16	caldesmon 1
+ENSMUSG00000029762	Akr1b8	1.153	0.008052	aldo-keto reductase family 1, member B8
+ENSMUSG00000029769	Ccdc136	0.53922	0.013324	coiled-coil domain containing 136
+ENSMUSG00000029838	Ptn	1.2894	0.0005628	pleiotrophin
+ENSMUSG00000029859	Epha1	0.974	0.0023687	Eph receptor A1
+ENSMUSG00000029860	Zyx	0.73191	0.017848	zyxin
+ENSMUSG00000029878	Dbpht2	1.3371	1.9666e-14	DNA binding protein with his-thr domain
+ENSMUSG00000029913	Prdm5	1.5825	1.2245e-06	PR domain containing 5
+ENSMUSG00000029999	Tgfa	0.68027	3.9593e-05	transforming growth factor alpha
+ENSMUSG00000030077	Chl1	1.1163	1.2968e-09	cell adhesion molecule L1-like
+ENSMUSG00000030102	Itpr1	0.81986	7.4804e-07	inositol 1,4,5-trisphosphate receptor 1
+ENSMUSG00000030157	Clec2d	0.59374	0.020465	C-type lectin domain family 2, member d
+ENSMUSG00000030189	Ybx3	0.65858	5.1208e-08	Y box protein 3
+ENSMUSG00000030203	Dusp16	0.83118	4.7696e-07	dual specificity phosphatase 16
+ENSMUSG00000030222	Rerg	2.0058	2.7488e-09	RAS-like, estrogen-regulated, growth-inhibitor
+ENSMUSG00000030228	Pik3c2g	1.2049	6.7986e-24	phosphatidylinositol 3-kinase, C2 domain containing, gamma polypeptide
+ENSMUSG00000030287	Itpr2	0.72626	1.0877e-06	inositol 1,4,5-triphosphate receptor 2
+ENSMUSG00000030306	Tmtc1	1.252	1.8804e-38	transmembrane and tetratricopeptide repeat containing 1
+ENSMUSG00000030342	Cd9	1.23	2.7333e-13	CD9 antigen
+ENSMUSG00000030411	Nova2	0.58945	0.016841	neuro-oncological ventral antigen 2
+ENSMUSG00000030551	Nr2f2	1.329	5.2932e-05	nuclear receptor subfamily 2, group F, member 2
+ENSMUSG00000030621	Me3	1.8901	8.8801e-14	malic enzyme 3, NADP(+)-dependent, mitochondrial
+ENSMUSG00000030641	Ddias	0.87961	0.0048975	DNA damage-induced apoptosis suppressor
+ENSMUSG00000030701	Plekhb1	1.1114	5.3726e-12	pleckstrin homology domain containing, family B (evectins) member 1
+ENSMUSG00000030717	Nupr1	1.4256	7.3048e-06	nuclear protein transcription regulator 1
+ENSMUSG00000030772	Dkk3	1.5317	7.2031e-06	dickkopf WNT signaling pathway inhibitor 3
+ENSMUSG00000030782	Tgfb1i1	0.8074	0.044054	transforming growth factor beta 1 induced transcript 1
+ENSMUSG00000030785	Cox6a2	2.6887	8.1734e-24	cytochrome c oxidase subunit VIa polypeptide 2
+ENSMUSG00000030806	Stx1b	1.0223	0.024106	syntaxin 1B
+ENSMUSG00000030934	Oat	0.76625	4.4182e-08	ornithine aminotransferase
+ENSMUSG00000030946	Lhpp	1.2151	0.00038823	phospholysine phosphohistidine inorganic pyrophosphate phosphatase
+ENSMUSG00000030956	Fam53b	0.51137	0.014485	family with sequence similarity 53, member B
+ENSMUSG00000030970	Ctbp2	0.57184	0.00076735	C-terminal binding protein 2
+ENSMUSG00000031093	Dock11	0.55148	1.0687e-07	dedicator of cytokinesis 11
+ENSMUSG00000031099	Smarca1	1.3872	7.116e-24	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1
+ENSMUSG00000031170	Slc38a5	1.4446	1.9004e-16	solute carrier family 38, member 5
+ENSMUSG00000031285	Dcx	0.72814	7.7318e-08	doublecortin
+ENSMUSG00000031290	Lrch2	1.031	4.9752e-06	leucine-rich repeats and calponin homology (CH) domain containing 2
+ENSMUSG00000031323	Dmrtc1a	0.69013	0.012182	DMRT-like family C1a
+ENSMUSG00000031375	Bgn	1.9589	2.742e-16	biglycan
+ENSMUSG00000031379	Pir	0.96643	0.0097733	pirin
+ENSMUSG00000031530	Dusp4	1.5202	2.3112e-10	dual specificity phosphatase 4
+ENSMUSG00000031562	Dctd	1.1225	0.007773	dCMP deaminase
+ENSMUSG00000031563	Wwc2	0.8897	0.0010235	WW, C2 and coiled-coil domain containing 2
+ENSMUSG00000031635	Anxa10	1.5333	0.011564	annexin A10
+ENSMUSG00000031647	Mfap3l	0.74027	0.00033138	microfibrillar-associated protein 3-like
+ENSMUSG00000031714	Gab1	0.95613	9.9852e-06	growth factor receptor bound protein 2-associated protein 1
+ENSMUSG00000031770	Herpud1	0.61153	0.00030362	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1
+ENSMUSG00000031825	Crispld2	1.1448	0.00030548	cysteine-rich secretory protein LCCL domain containing 2
+ENSMUSG00000031837	Necab2	1.0886	1.7426e-14	N-terminal EF-hand calcium binding protein 2
+ENSMUSG00000031845	Bco1	1.0758	4.1934e-10	beta-carotene oxygenase 1
+ENSMUSG00000031980	Agt	0.66427	0.0013199	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+ENSMUSG00000031995	St14	0.64326	0.0021511	suppression of tumorigenicity 14 (colon carcinoma)
+ENSMUSG00000031996	Aplp2	0.65512	3.4937e-07	amyloid beta (A4) precursor-like protein 2
+ENSMUSG00000032033	Barx2	4.0583	2.3651e-11	BarH-like homeobox 2
+ENSMUSG00000032034	Kcnj5	2.2908	4.2769e-12	potassium inwardly-rectifying channel, subfamily J, member 5
+ENSMUSG00000032038	St3gal4	1.1082	0.0011521	ST3 beta-galactoside alpha-2,3-sialyltransferase 4
+ENSMUSG00000032060	Cryab	1.4334	0.00037918	crystallin, alpha B
+ENSMUSG00000032068	Plet1	1.5442	0.0084885	placenta expressed transcript 1
+ENSMUSG00000032194	Kank2	0.60179	0.0028974	KN motif and ankyrin repeat domains 2
+ENSMUSG00000032220	Myo1e	0.95347	4.4109e-13	myosin IE
+ENSMUSG00000032224	Fam81a	1.3934	3.364e-09	family with sequence similarity 81, member A
+ENSMUSG00000032231	Anxa2	0.82858	0.0011469	annexin A2
+ENSMUSG00000032261	Sh3bgrl2	1.2589	1.5751e-06	SH3 domain binding glutamic acid-rich protein like 2
+ENSMUSG00000032350	Gclc	0.62406	1.323e-07	glutamate-cysteine ligase, catalytic subunit
+ENSMUSG00000032366	Tpm1	0.86672	3.4627e-06	tropomyosin 1, alpha
+ENSMUSG00000032402	Smad3	0.5439	0.033095	SMAD family member 3
+ENSMUSG00000032418	Me1	0.56639	4.9353e-05	malic enzyme 1, NADP(+)-dependent, cytosolic
+ENSMUSG00000032440	Tgfbr2	0.70803	7.8636e-05	transforming growth factor, beta receptor II
+ENSMUSG00000032452	Clstn2	1.2349	2.728e-05	calsyntenin 2
+ENSMUSG00000032532	Cck	4.999	1.9107e-09	cholecystokinin
+ENSMUSG00000032554	Trf	1.115	0.00012977	transferrin
+ENSMUSG00000032609	Klhdc8b	0.83651	0.00019042	kelch domain containing 8B
+ENSMUSG00000032666	1700025G04Rik	0.61551	0.00070532	RIKEN cDNA 1700025G04 gene
+ENSMUSG00000032733	Snx33	0.5874	0.00047897	sorting nexin 33
+ENSMUSG00000032816	Igdcc4	1.336	1.0712e-08	immunoglobulin superfamily, DCC subclass, member 4
+ENSMUSG00000032827	Ppp1r9a	0.56921	4.1933e-08	protein phosphatase 1, regulatory (inhibitor) subunit 9A
+ENSMUSG00000032852	Rspo4	2.0574	8.1512e-38	R-spondin 4
+ENSMUSG00000032940	Rbm11	1.4719	9.2935e-07	RNA binding motif protein 11
+ENSMUSG00000033287	Kctd17	0.71835	0.007805	potassium channel tetramerisation domain containing 17
+ENSMUSG00000033361	Prrg3	1.4769	2.0184e-08	proline rich Gla (G-carboxyglutamic acid) 3 (transmembrane)
+ENSMUSG00000033420	Antxr1	1.1443	0.00012868	anthrax toxin receptor 1
+ENSMUSG00000033721	Vav3	1.4227	1.7126e-10	vav 3 oncogene
+ENSMUSG00000033768	Nrxn2	1.3166	0.0069003	neurexin II
+ENSMUSG00000033805	Ephx4	0.58526	0.015049	epoxide hydrolase 4
+ENSMUSG00000033931	Rbm34	0.52458	0.0019996	RNA binding motif protein 34
+ENSMUSG00000033965	Slc16a2	0.91182	0.0004132	solute carrier family 16 (monocarboxylic acid transporters), member 2
+ENSMUSG00000033981	Gria2	1.4659	3.8761e-23	glutamate receptor, ionotropic, AMPA2 (alpha 2)
+ENSMUSG00000033998	Kcnk1	0.50028	2.7507e-05	potassium channel, subfamily K, member 1
+ENSMUSG00000034098	Fstl5	1.5185	1.831e-16	follistatin-like 5
+ENSMUSG00000034220	Gpc1	0.57133	0.0086618	glypican 1
+ENSMUSG00000034282	Evpl	0.67782	0.0067792	envoplakin
+ENSMUSG00000034312	Iqsec1	0.60414	0.00030579	IQ motif and Sec7 domain 1
+ENSMUSG00000034361	Cpne2	0.87179	0.00099716	copine II
+ENSMUSG00000034382	AI661453	0.75668	0.00041802	expressed sequence AI661453
+ENSMUSG00000034438	Gbp8	0.94532	0.0018438	guanylate-binding protein 8
+ENSMUSG00000034457	Eda2r	2.0924	3.4143e-17	ectodysplasin A2 receptor
+ENSMUSG00000034472	Rasd2	4.1657	1.8575e-43	RASD family, member 2
+ENSMUSG00000034573	Ptpn13	0.79461	6.3919e-11	protein tyrosine phosphatase, non-receptor type 13
+ENSMUSG00000034614	Pik3ip1	0.61941	0.0068187	phosphoinositide-3-kinase interacting protein 1
+ENSMUSG00000034675	Dbn1	0.86066	9.9826e-05	drebrin 1
+ENSMUSG00000034738	Nostrin	1.0853	4.15e-16	nitric oxide synthase trafficker
+ENSMUSG00000034795	Ccdc122	0.6862	0.01053	coiled-coil domain containing 122
+ENSMUSG00000034918	Cdhr2	0.8331	9.872e-07	cadherin-related family member 2
+ENSMUSG00000034930	Rtkn	0.80903	0.00024953	rhotekin
+ENSMUSG00000034981	Parm1	1.6422	8.1357e-33	prostate androgen-regulated mucin-like protein 1
+ENSMUSG00000035095	Fam167a	1.5337	4.1535e-18	family with sequence similarity 167, member A
+ENSMUSG00000035540	Gc	1.2945	1.6997e-17	group specific component
+ENSMUSG00000035681	Kcnc2	1.11	1.6166e-08	potassium voltage gated channel, Shaw-related subfamily, member 2
+ENSMUSG00000035849	Krt222	0.91932	2.8264e-06	keratin 222
+ENSMUSG00000035852	Misp	0.669	0.0077008	mitotic spindle positioning
+ENSMUSG00000035863	Palm	0.64382	0.038975	paralemmin
+ENSMUSG00000035864	Syt1	1.0453	1.0434e-06	synaptotagmin I
+ENSMUSG00000035896	Rnase1	1.9645	1.7528e-05	ribonuclease, RNase A family, 1 (pancreatic)
+ENSMUSG00000036098	Myrf	1.1435	0.00010258	myelin regulatory factor
+ENSMUSG00000036111	Lmo1	2.3183	8.8955e-10	LIM domain only 1
+ENSMUSG00000036206	Sh3bp4	0.76209	1.7153e-07	SH3-domain binding protein 4
+ENSMUSG00000036564	Ndrg4	0.79941	6.4161e-09	N-myc downstream regulated gene 4
+ENSMUSG00000036570	Fxyd1	1.2579	0.0031164	FXYD domain-containing ion transport regulator 1
+ENSMUSG00000036902	Neto2	1.4964	1.3998e-08	neuropilin (NRP) and tolloid (TLL)-like 2
+ENSMUSG00000037035	Inhbb	0.9444	6.4612e-06	inhibin beta-B
+ENSMUSG00000037143	Cfap61	0.91554	0.00017427	cilia and flagella associated protein 61
+ENSMUSG00000037239	Spred3	0.85776	8.4361e-07	sprouty-related, EVH1 domain containing 3
+ENSMUSG00000037253	Mex3c	0.62937	2.4115e-06	mex3 RNA binding family member C
+ENSMUSG00000037254	Itih2	1.4001	0.00014773	inter-alpha trypsin inhibitor, heavy chain 2
+ENSMUSG00000037306	Man1c1	0.64085	3.0227e-05	mannosidase, alpha, class 1C, member 1
+ENSMUSG00000037379	Spon2	1.1456	6.5274e-10	spondin 2, extracellular matrix protein
+ENSMUSG00000037405	Icam1	1.1435	0.011813	intercellular adhesion molecule 1
+ENSMUSG00000037411	Serpine1	0.79272	0.00068652	serine (or cysteine) peptidase inhibitor, clade E, member 1
+ENSMUSG00000037455	Slc18b1	0.57503	0.010632	solute carrier family 18, subfamily B, member 1
+ENSMUSG00000037465	Klf10	0.92185	1.2543e-06	Kruppel-like factor 10
+ENSMUSG00000037625	Cldn11	1.6778	1.0163e-08	claudin 11
+ENSMUSG00000037674	Rfx7	0.5393	1.7451e-05	regulatory factor X, 7
+ENSMUSG00000037697	Ddhd1	0.50079	0.00020134	DDHD domain containing 1
+ENSMUSG00000037706	Cd81	1.3636	2.9893e-22	CD81 antigen
+ENSMUSG00000037716	Ccdc33	2.3851	2.794e-05	coiled-coil domain containing 33
+ENSMUSG00000037736	Limch1	0.9039	3.4558e-12	LIM and calponin homology domains 1
+ENSMUSG00000037784	Dzip1l	0.61085	0.0079598	DAZ interacting protein 1-like
+ENSMUSG00000037820	Tgm2	1.3359	0.00012173	transglutaminase 2, C polypeptide
+ENSMUSG00000037887	Dusp8	0.79759	0.00077703	dual specificity phosphatase 8
+ENSMUSG00000037907	Ankrd13b	0.63067	0.025593	ankyrin repeat domain 13b
+ENSMUSG00000037999	Arap2	1.1454	2.0801e-08	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 2
+ENSMUSG00000038007	Acer2	0.95815	1.0478e-06	alkaline ceramidase 2
+ENSMUSG00000038112	AW551984	1.1626	4.4757e-18	expressed sequence AW551984
+ENSMUSG00000038167	Plekhg6	0.90359	0.03313	pleckstrin homology domain containing, family G (with RhoGef domain) member 6
+ENSMUSG00000038387	Rras	0.68625	0.017378	related RAS viral (r-ras) oncogene
+ENSMUSG00000038393	Txnip	1.2734	0.0012521	thioredoxin interacting protein
+ENSMUSG00000038400	Pmepa1	0.52818	0.019388	prostate transmembrane protein, androgen induced 1
+ENSMUSG00000038508	Gdf15	2.5525	0.00049317	growth differentiation factor 15
+ENSMUSG00000038527	C1rl	1.3105	0.00023543	complement component 1, r subcomponent-like
+ENSMUSG00000038530	Rgs4	0.6423	0.0006709	regulator of G-protein signaling 4
+ENSMUSG00000038576	Susd4	0.59311	0.009521	sushi domain containing 4
+ENSMUSG00000038602	Slc35f1	0.53011	0.00094443	solute carrier family 35, member F1
+ENSMUSG00000038732	Mboat1	1.5697	2.4347e-10	membrane bound O-acyltransferase domain containing 1
+ENSMUSG00000038740	Mvb12b	1.1506	1.0447e-07	multivesicular body subunit 12B
+ENSMUSG00000038742	Angptl6	1.1281	1.8732e-05	angiopoietin-like 6
+ENSMUSG00000038764	Ptpn3	0.51927	0.0012542	protein tyrosine phosphatase, non-receptor type 3
+ENSMUSG00000038776	Ephx1	0.52784	0.00087105	epoxide hydrolase 1, microsomal
+ENSMUSG00000038781	Stap2	0.5957	0.022773	signal transducing adaptor family member 2
+ENSMUSG00000038859	Baiap2l1	0.64444	2.531e-07	BAI1-associated protein 2-like 1
+ENSMUSG00000038903	Ccdc68	0.73162	0.001237	coiled-coil domain containing 68
+ENSMUSG00000038917	3930402G23Rik	1.5098	6.5306e-07	RIKEN cDNA 3930402G23 gene
+ENSMUSG00000039005	Tlr4	0.92368	0.0094218	toll-like receptor 4
+ENSMUSG00000039062	Anpep	0.6849	1.5366e-08	alanyl (membrane) aminopeptidase
+ENSMUSG00000039110	Mycbpap	0.90594	0.00035616	MYCBP associated protein
+ENSMUSG00000039131	Gipc2	0.94963	0.028882	GIPC PDZ domain containing family, member 2
+ENSMUSG00000039145	Camk1d	1.1613	1.2418e-14	calcium/calmodulin-dependent protein kinase ID
+ENSMUSG00000039178	Tbc1d19	0.67986	7.5706e-08	TBC1 domain family, member 19
+ENSMUSG00000039252	Lgi2	1.6011	5.5678e-29	leucine-rich repeat LGI family, member 2
+ENSMUSG00000039405	Prss23	1.0259	3.9095e-10	protease, serine 23
+ENSMUSG00000039457	Ppl	0.64238	0.0023605	periplakin
+ENSMUSG00000039607	Rbms3	1.666	1.2565e-19	RNA binding motif, single stranded interacting protein
+ENSMUSG00000039661	Dusp26	0.88362	2.9831e-07	dual specificity phosphatase 26 (putative)
+ENSMUSG00000039676	Capsl	0.53608	0.000275	calcyphosine-like
+ENSMUSG00000039835	Nhsl1	1.403	2.7782e-14	NHS-like 1
+ENSMUSG00000039911	Spsb1	0.93029	8.3052e-11	splA/ryanodine receptor domain and SOCS box containing 1
+ENSMUSG00000039913	Pak7	1.5208	6.2937e-11	p21 protein (Cdc42/Rac)-activated kinase 7
+ENSMUSG00000039982	Dtx4	1.3331	1.3156e-07	deltex 4, E3 ubiquitin ligase
+ENSMUSG00000040093	Bmf	1.0315	0.00042958	BCL2 modifying factor
+ENSMUSG00000040111	Gramd1b	0.82189	1.5028e-12	GRAM domain containing 1B
+ENSMUSG00000040249	Lrp1	0.95177	1.4632e-08	low density lipoprotein receptor-related protein 1
+ENSMUSG00000040268	Plekha1	0.78436	4.9435e-14	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 1
+ENSMUSG00000040322	Slc25a24	0.94116	0.0002627	solute carrier family 25 (mitochondrial carrier, phosphate carrier), member 24
+ENSMUSG00000040430	Pitpnc1	0.75072	2.0096e-13	phosphatidylinositol transfer protein, cytoplasmic 1
+ENSMUSG00000040525	Cblc	1.3233	0.00031135	Casitas B-lineage lymphoma c
+ENSMUSG00000040584	Abcb1a	1.0784	0.00045458	ATP-binding cassette, sub-family B (MDR/TAP), member 1A
+ENSMUSG00000040612	Ildr2	1.9209	0.00014352	immunoglobulin-like domain containing receptor 2
+ENSMUSG00000040624	Plekhg1	1.0205	6.594e-10	pleckstrin homology domain containing, family G (with RhoGef domain) member 1
+ENSMUSG00000040666	Sh3bgr	0.90774	0.0017765	SH3-binding domain glutamic acid-rich protein
+ENSMUSG00000040717	Il17rd	0.98066	3.9203e-05	interleukin 17 receptor D
+ENSMUSG00000040729	Cep126	0.64794	2.4478e-05	centrosomal protein 126
+ENSMUSG00000040856	Dlk1	0.9844	5.7448e-05	delta-like 1 homolog (Drosophila)
+ENSMUSG00000040945	Rcc2	0.64854	1.8785e-05	regulator of chromosome condensation 2
+ENSMUSG00000040969	Arhgef38	1.1351	0.0013766	Rho guanine nucleotide exchange factor (GEF) 38
+ENSMUSG00000040990	Sh3kbp1	0.82706	1.0091e-12	SH3-domain kinase binding protein 1
+ENSMUSG00000041020	Map7d2	0.80075	2.2258e-06	MAP7 domain containing 2
+ENSMUSG00000041112	Elmo1	0.77326	2.602e-06	engulfment and cell motility 1
+ENSMUSG00000041120	Nbl1	1.1253	5.1663e-10	neuroblastoma, suppression of tumorigenicity 1
+ENSMUSG00000041216	Clvs1	1.3945	6.6637e-05	clavesin 1
+ENSMUSG00000041245	Wnk3	1.425	5.0186e-32	WNK lysine deficient protein kinase 3
+ENSMUSG00000041261	Car8	1.407	4.3906e-32	carbonic anhydrase 8
+ENSMUSG00000041460	Cacna2d4	1.1486	0.00060694	calcium channel, voltage-dependent, alpha 2/delta subunit 4
+ENSMUSG00000041633	Kctd12b	0.71657	3.4514e-08	potassium channel tetramerisation domain containing 12b
+ENSMUSG00000041649	Klf8	0.6732	0.0097795	Kruppel-like factor 8
+ENSMUSG00000041730	Prrxl1	8.7375	2.4884e-50	paired related homeobox protein-like 1
+ENSMUSG00000041801	Phlda3	1.2853	5.5652e-05	pleckstrin homology like domain, family A, member 3
+ENSMUSG00000041845	Rhod	1.429	0.0064349	ras homolog family member D
+ENSMUSG00000041889	Shisa4	1.5187	0.00015754	shisa family member 4
+ENSMUSG00000041986	Elmod1	1.22	3.9405e-07	ELMO/CED-12 domain containing 1
+ENSMUSG00000041992	Rapgef5	1.2416	3.8565e-14	Rap guanine nucleotide exchange factor (GEF) 5
+ENSMUSG00000042035	Igsf3	1.6154	2.5128e-08	immunoglobulin superfamily, member 3
+ENSMUSG00000042097	Zfp239	0.58528	0.021807	zinc finger protein 239
+ENSMUSG00000042156	Dzip1	0.57332	0.010573	DAZ interacting protein 1
+ENSMUSG00000042225	Ammecr1	0.75649	0.0048926	Alport syndrome, mental retardation, midface hypoplasia and elliptocytosis chromosomal region gene 1
+ENSMUSG00000042364	Snx18	0.64815	2.9881e-06	sorting nexin 18
+ENSMUSG00000042510	AA986860	1.3999	0.018307	expressed sequence AA986860
+ENSMUSG00000042515	Mum1l1	0.80626	3.0738e-09	melanoma associated antigen (mutated) 1-like 1
+ENSMUSG00000042599	Kdm7a	0.61363	3.0427e-09	lysine (K)-specific demethylase 7A
+ENSMUSG00000042613	Pbxip1	0.5495	0.0001242	pre B cell leukemia transcription factor interacting protein 1
+ENSMUSG00000042622	Maff	0.58089	0.044644	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein F (avian)
+ENSMUSG00000042638	Gucy2c	1.4852	7.0034e-28	guanylate cyclase 2c
+ENSMUSG00000042659	Arrdc4	1.8087	2.7839e-39	arrestin domain containing 4
+ENSMUSG00000042784	Muc1	2.0462	0.00036854	mucin 1, transmembrane
+ENSMUSG00000042808	Gpx2	0.996	1.6458e-09	glutathione peroxidase 2
+ENSMUSG00000043004	Gng2	0.9396	6.5518e-11	guanine nucleotide binding protein (G protein), gamma 2
+ENSMUSG00000043164	Tmem212	2.5927	3.6472e-07	transmembrane protein 212
+ENSMUSG00000043592	Unc5cl	1.8048	0.0010796	unc-5 family C-terminal like
+ENSMUSG00000044349	Snhg11	0.71825	0.0047602	small nucleolar RNA host gene 11
+ENSMUSG00000044461	Shisa2	1.4661	1.6728e-14	shisa family member 2
+ENSMUSG00000044528	Tram1l1	1.0232	0.0066079	translocation associated membrane protein 1-like 1
+ENSMUSG00000044734	Serpinb1a	1.2078	7.208e-05	serine (or cysteine) peptidase inhibitor, clade B, member 1a
+ENSMUSG00000044912	Syt16	1.1897	2.4141e-06	synaptotagmin XVI
+ENSMUSG00000044976	Wdr72	4.4125	5.6271e-66	WD repeat domain 72
+ENSMUSG00000044986	Tst	0.95526	0.038465	thiosulfate sulfurtransferase, mitochondrial
+ENSMUSG00000045031	Cetn4	0.85177	0.0092569	centrin 4
+ENSMUSG00000045103	Dmd	1.4048	8.5183e-17	dystrophin, muscular dystrophy
+ENSMUSG00000045312	Lhfpl2	1.5243	2.2114e-15	lipoma HMGIC fusion partner-like 2
+ENSMUSG00000045348	Nyap1	0.99639	0.0022763	neuronal tyrosine-phosphorylated phosphoinositide 3-kinase adaptor 1
+ENSMUSG00000045404	Kcnk13	1.4391	7.5762e-09	potassium channel, subfamily K, member 13
+ENSMUSG00000045414	1190002N15Rik	0.80616	4.7169e-08	RIKEN cDNA 1190002N15 gene
+ENSMUSG00000045441	Gprin3	0.81746	4.935e-07	GPRIN family member 3
+ENSMUSG00000045589	Frrs1l	1.4781	3.1282e-12	ferric-chelate reductase 1 like
+ENSMUSG00000045671	Spred2	0.73496	1.0297e-06	sprouty-related, EVH1 domain containing 2
+ENSMUSG00000045672	Col27a1	0.58422	0.00050965	collagen, type XXVII, alpha 1
+ENSMUSG00000045763	Basp1	1.4221	1.1822e-06	brain abundant, membrane attached signal protein 1
+ENSMUSG00000045991	Onecut2	1.5517	9.6849e-05	one cut domain, family member 2
+ENSMUSG00000046178	Nxph1	1.2447	3.8527e-06	neurexophilin 1
+ENSMUSG00000046314	Stxbp6	0.58956	2.0468e-05	syntaxin binding protein 6 (amisyn)
+ENSMUSG00000046402	Rbp1	1.3611	0.00073466	retinol binding protein 1, cellular
+ENSMUSG00000046768	Rhoj	0.78715	0.00038406	ras homolog family member J
+ENSMUSG00000046834	Krt1	1.0227	0.011482	keratin 1
+ENSMUSG00000046997	Spsb4	1.6792	1.1134e-10	splA/ryanodine receptor domain and SOCS box containing 4
+ENSMUSG00000047139	Cd24a	1.2894	7.0976e-22	CD24a antigen
+ENSMUSG00000047181	Samd14	0.66754	0.0066884	sterile alpha motif domain containing 14
+ENSMUSG00000047228	A2ml1	1.7473	2.8541e-08	alpha-2-macroglobulin like 1
+ENSMUSG00000047261	Gap43	1.0383	1.9287e-05	growth associated protein 43
+ENSMUSG00000047407	Tgif1	1.1926	0.00012667	TGFB-induced factor homeobox 1
+ENSMUSG00000047786	Lix1	0.77484	0.0034802	limb and CNS expressed 1
+ENSMUSG00000047822	Angptl8	2.9077	6.3849e-08	angiopoietin-like 8
+ENSMUSG00000047878	A4galt	0.88736	0.021646	alpha 1,4-galactosyltransferase
+ENSMUSG00000047907	Tshz2	0.67485	7.5468e-09	teashirt zinc finger family member 2
+ENSMUSG00000047963	Stbd1	1.6683	4.3133e-11	starch binding domain 1
+ENSMUSG00000048078	Tenm4	2.1247	4.2332e-72	teneurin transmembrane protein 4
+ENSMUSG00000048285	Frmd6	0.77665	0.0022406	FERM domain containing 6
+ENSMUSG00000048458	Fam212b	1.1136	3.8873e-08	family with sequence similarity 212, member B
+ENSMUSG00000048483	Zdhhc22	1.579	5.0032e-06	zinc finger, DHHC-type containing 22
+ENSMUSG00000048644	Ctxn1	0.83015	0.028176	cortexin 1
+ENSMUSG00000048699	Krt90	1.8589	2.9828e-05	keratin 90
+ENSMUSG00000048814	Lonrf2	0.73918	6.8035e-09	LON peptidase N-terminal domain and ring finger 2
+ENSMUSG00000048978	Nrsn1	1.6297	1.2252e-16	neurensin 1
+ENSMUSG00000049265	Kcnk3	1.283	6.7131e-12	potassium channel, subfamily K, member 3
+ENSMUSG00000049281	Scn3b	1.1846	1.6111e-15	sodium channel, voltage-gated, type III, beta
+ENSMUSG00000049288	Lix1l	0.70361	4.4994e-05	Lix1-like
+ENSMUSG00000049939	Lrrc4	0.82611	0.0015183	leucine rich repeat containing 4
+ENSMUSG00000050822	Slc29a4	0.87554	6.1658e-06	solute carrier family 29 (nucleoside transporters), member 4
+ENSMUSG00000050855	Zfp940	0.53712	0.01563	zinc finger protein 940
+ENSMUSG00000050910	Cdr2l	0.65999	0.00026733	cerebellar degeneration-related protein 2-like
+ENSMUSG00000050989	Selenon	0.5613	0.00012093	selenoprotein N
+ENSMUSG00000051255	Gm6563	0.61204	0.034974	predicted pseudogene 6563
+ENSMUSG00000051335	Gfod1	1.0142	3.645e-09	glucose-fructose oxidoreductase domain containing 1
+ENSMUSG00000051359	Ncald	0.68954	1.0282e-09	neurocalcin delta
+ENSMUSG00000051379	Flrt3	2.2548	9.9938e-06	fibronectin leucine rich transmembrane protein 3
+ENSMUSG00000051439	Cd14	1.2624	0.024094	CD14 antigen
+ENSMUSG00000051586	Mical3	0.75314	3.9404e-05	microtubule associated monooxygenase, calponin and LIM domain containing 3
+ENSMUSG00000051735	Rinl	0.89816	0.0012188	Ras and Rab interactor-like
+ENSMUSG00000051855	Mest	0.82633	1.5107e-06	mesoderm specific transcript
+ENSMUSG00000051934	Spats2	0.83114	1.0614e-06	spermatogenesis associated, serine-rich 2
+ENSMUSG00000051951	Xkr4	0.79858	1.9465e-06	X-linked Kx blood group related 4
+ENSMUSG00000052056	Zfp217	0.70462	2.1436e-06	zinc finger protein 217
+ENSMUSG00000052151	Plpp2	0.85315	0.0022526	phospholipid phosphatase 2
+ENSMUSG00000052560	Cpne8	0.83886	3.4613e-05	copine VIII
+ENSMUSG00000052676	Zmat1	0.5487	0.037803	zinc finger, matrin type 1
+ENSMUSG00000053062	Jam2	0.99643	4.9815e-11	junction adhesion molecule 2
+ENSMUSG00000053819	Camk2d	0.58225	2.6986e-06	calcium/calmodulin-dependent protein kinase II, delta
+ENSMUSG00000053930	Shisa6	2.0341	1.3704e-08	shisa family member 6
+ENSMUSG00000053965	Pde5a	0.65252	0.00013262	phosphodiesterase 5A, cGMP-specific
+ENSMUSG00000054000	Tusc1	0.79708	0.023727	tumor suppressor candidate 1
+ENSMUSG00000054013	Tmem179	1.8081	7.3796e-16	transmembrane protein 179
+ENSMUSG00000054200	Ffar4	1.2269	2.9164e-13	free fatty acid receptor 4
+ENSMUSG00000054256	Msi1	0.66914	0.0031196	musashi RNA-binding protein 1
+ENSMUSG00000054702	Ap1s3	0.52177	0.040797	adaptor-related protein complex AP-1, sigma 3
+ENSMUSG00000054976	Nyap2	0.89839	0.0015596	neuronal tyrosine-phophorylated phosphoinositide 3-kinase adaptor 2
+ENSMUSG00000055172	C1ra	1.2319	2.7763e-08	complement component 1, r subcomponent A
+ENSMUSG00000055197	Fev	1.8251	5.0566e-10	FEV (ETS oncogene family)
+ENSMUSG00000055430	Nap1l5	0.55422	0.0024676	nucleosome assembly protein 1-like 5
+ENSMUSG00000055653	Gpc3	1.0849	0.0037761	glypican 3
+ENSMUSG00000056258	Kcnq3	2.3372	1.0196e-12	potassium voltage-gated channel, subfamily Q, member 3
+ENSMUSG00000056296	Synpr	1.0478	1.2645e-08	synaptoporin
+ENSMUSG00000056492	Adgrf5	0.51852	2.1182e-06	adhesion G protein-coupled receptor F5
+ENSMUSG00000056812	St8sia3	0.98483	4.6161e-15	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 3
+ENSMUSG00000057092	Fxyd3	1.854	1.9948e-11	FXYD domain-containing ion transport regulator 3
+ENSMUSG00000057113	Npm1	0.57162	1.713e-06	nucleophosmin 1
+ENSMUSG00000057182	Scn3a	1.609	7.2016e-41	sodium channel, voltage-gated, type III, alpha
+ENSMUSG00000057246	BC051142	0.65322	0.0026139	cDNA sequence BC051142
+ENSMUSG00000057614	Gnai1	1.1123	6.454e-15	guanine nucleotide binding protein (G protein), alpha inhibiting 1
+ENSMUSG00000058325	Dock1	0.92179	6.6385e-11	dedicator of cytokinesis 1
+ENSMUSG00000058420	Syt17	1.3983	0.00028903	synaptotagmin XVII
+ENSMUSG00000058488	Kl	0.82745	1.6664e-10	klotho
+ENSMUSG00000059401	Mamld1	1.4452	6.7231e-10	mastermind-like domain containing 1
+ENSMUSG00000059493	Nhs	1.2333	1.9556e-07	NHS actin remodeling regulator
+ENSMUSG00000059552	Trp53	0.52505	0.00033785	transformation related protein 53
+ENSMUSG00000059708	Akap17b	1.0478	4.3266e-13	A kinase (PRKA) anchor protein 17B
+ENSMUSG00000060206	Zfp462	0.78881	3.3758e-12	zinc finger protein 462
+ENSMUSG00000060377	Rpl36a-ps1	1.1017	0.0019354	ribosomal protein L36A, pseudogene 1
+ENSMUSG00000060402	Chst8	1.2174	0.00039833	carbohydrate (N-acetylgalactosamine 4-0) sulfotransferase 8
+ENSMUSG00000060487	Samd5	1.396	1.3002e-09	sterile alpha motif domain containing 5
+ENSMUSG00000061119	Prcp	0.52382	0.043789	prolylcarboxypeptidase (angiotensinase C)
+ENSMUSG00000061576	Dpp6	1.9399	1.5485e-64	dipeptidylpeptidase 6
+ENSMUSG00000061665	Cd2ap	0.64293	4.7204e-05	CD2-associated protein
+ENSMUSG00000061808	Ttr	0.97142	0.00063071	transthyretin
+ENSMUSG00000062542	Syt9	0.75755	0.00010702	synaptotagmin IX
+ENSMUSG00000062591	Tubb4a	0.8666	0.00094164	tubulin, beta 4A class IVA
+ENSMUSG00000062661	Ncs1	1.1408	1.3355e-08	neuronal calcium sensor 1
+ENSMUSG00000062760	1810041L15Rik	1.1152	4.4701e-13	RIKEN cDNA 1810041L15 gene
+ENSMUSG00000062866	Phactr2	0.91706	8.2258e-07	phosphatase and actin regulator 2
+ENSMUSG00000063275	Hacd1	1.3248	1.1991e-06	3-hydroxyacyl-CoA dehydratase 1
+ENSMUSG00000063428	Ddo	0.79997	2.4889e-07	D-aspartate oxidase
+ENSMUSG00000063727	Tnfrsf11b	1.5015	1.6769e-10	tumor necrosis factor receptor superfamily, member 11b (osteoprotegerin)
+ENSMUSG00000065999	Zfp985	0.6286	0.023326	zinc finger protein 985
+ENSMUSG00000066000	Zfp979	1.2735	2.9166e-05	zinc finger protein 979
+ENSMUSG00000066026	Dhrs3	1.1297	0.00010245	dehydrogenase/reductase (SDR family) member 3
+ENSMUSG00000067377	Tspan6	0.58337	0.028934	tetraspanin 6
+ENSMUSG00000067578	Cbln4	1.062	0.00022498	cerebellin 4 precursor protein
+ENSMUSG00000067916	Zfp991	1.1463	0.046921	zinc finger protein 991
+ENSMUSG00000068220	Lgals1	0.86057	0.0073208	lectin, galactose binding, soluble 1
+ENSMUSG00000068748	Ptprz1	0.83014	4.7931e-06	protein tyrosine phosphatase, receptor type Z, polypeptide 1
+ENSMUSG00000069206	Zfp874a	0.63972	0.0039446	zinc finger protein 874a
+ENSMUSG00000069662	Marcks	0.56147	9.645e-06	myristoylated alanine rich protein kinase C substrate
+ENSMUSG00000069805	Fbp1	1.1324	1.682e-08	fructose bisphosphatase 1
+ENSMUSG00000070044	Fam149a	1.3065	4.8291e-20	family with sequence similarity 149, member A
+ENSMUSG00000070047	Fat1	0.76377	2.0438e-08	FAT atypical cadherin 1
+ENSMUSG00000070530	Wfdc16	1.0563	1.9378e-06	WAP four-disulfide core domain 16
+ENSMUSG00000070639	Lrrc8b	1.2242	3.2696e-10	leucine rich repeat containing 8 family, member B
+ENSMUSG00000070953	Rabepk	0.60729	9.4647e-05	Rab9 effector protein with kelch motifs
+ENSMUSG00000071553	Cpa2	1.6103	0.00024881	carboxypeptidase A2, pancreatic
+ENSMUSG00000073102	Drc1	1.3049	6.7584e-09	dynein regulatory complex subunit 1
+ENSMUSG00000073293	Nudt10	0.87641	0.00022978	nudix (nucleoside diphosphate linked moiety X)-type motif 10
+ENSMUSG00000073295	Nudt11	1.095	3.6866e-10	nudix (nucleoside diphosphate linked moiety X)-type motif 11
+ENSMUSG00000073418	C4b	1.6865	2.3478e-07	complement component 4B (Chido blood group)
+ENSMUSG00000073433	Arhgdig	0.65116	0.001491	Rho GDP dissociation inhibitor (GDI) gamma
+ENSMUSG00000073530	Pappa2	2.4166	1.1986e-19	pappalysin 2
+ENSMUSG00000073910	Mob3b	2.0617	1.0096e-10	MOB kinase activator 3B
+ENSMUSG00000073987	Ggh	0.60406	0.00041413	gamma-glutamyl hydrolase
+ENSMUSG00000074063	Osgin1	0.68538	0.022796	oxidative stress induced growth inhibitor 1
+ENSMUSG00000074102	Rbm15b	1.3889	4.8449e-06	RNA binding motif protein 15B
+ENSMUSG00000074345	Tnfaip8l3	1.6779	2.9289e-05	tumor necrosis factor, alpha-induced protein 8-like 3
+ENSMUSG00000074398	Gm15441	1.2204	0.0020006	predicted gene 15441
+ENSMUSG00000074865	Zfp934	0.58313	0.048995	zinc finger protein 934
+ENSMUSG00000076441	Ass1	0.8121	1.3959e-05	argininosuccinate synthetase 1
+ENSMUSG00000078193	Gm2000	0.54509	0.0077058	predicted gene 2000
+ENSMUSG00000078495	Zfp984	0.85884	2.7597e-06	zinc finger protein 984
+ENSMUSG00000078546	Zfp995	0.62422	0.017591	zinc finger protein 995
+ENSMUSG00000078794	Dact3	0.63124	0.021228	dishevelled-binding antagonist of beta-catenin 3
+ENSMUSG00000081984	Dnajb3	0.96213	0.044858	DnaJ heat shock protein family (Hsp40) member B3
+ENSMUSG00000082229	Nap1l2	0.61751	0.00023072	nucleosome assembly protein 1-like 2
+ENSMUSG00000085022	Gm5860	1.1221	1.3209e-08	predicted gene 5860
+ENSMUSG00000085077	1700049E15Rik	1.7125	0.002671	RIKEN cDNA 1700049E15 gene
+ENSMUSG00000085912	Trp53cor1	0.98846	0.00019387	tumor protein p53 pathway corepressor 1
+ENSMUSG00000086040	Wipf3	1.7043	3.6456e-12	WAS/WASL interacting protein family, member 3
+ENSMUSG00000086587	Gm11837	0.9835	1.2248e-05	predicted gene 11837
+ENSMUSG00000090035	Galnt4	0.68375	9.3742e-08	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 4
+ENSMUSG00000090223	Pcp4	0.7134	0.0016369	Purkinje cell protein 4
+ENSMUSG00000092074	Dynlt1a	0.51139	0.044492	dynein light chain Tctex-type 1A
+ENSMUSG00000093587	Gm20554	1.2903	1.6091e-08	predicted gene, 20554
