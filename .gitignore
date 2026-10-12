@@ -1,0 +1,6 @@
+data/raw/
+data/processed/
+logs/*.log
+.Rhistory
+.RData
+__pycache__/
