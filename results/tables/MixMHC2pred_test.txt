@@ -1,0 +1,30 @@
+####################
+# Output from MixMHC2pred (v2.0.2)
+# Input file: D:/T1D_DarkGenome/results/tables/hla2_test_10.txt
+# Alleles: DRB1_03_01, DRB1_04_01
+# Alleles folder: 'exec:/PWMdef/'; 
+# Context type: none
+#
+# MixMHC2pred is freely available for academic users.
+# Private companies should contact Nadette Bulgin (nbulgin@lcr.org) at the Ludwig Institute
+#  for Cancer Research Ltd for commercial licenses.
+#
+# To cite MixMHC2pred, please refer to:
+# Racle, J., et al., Machine learning predictions of MHC-II specificities
+#  reveal alternative binding mode of class II epitopes. bioRxiv (2022).
+# and
+# Racle, J., et al. Robust prediction of HLA class II epitopes by deep motif
+#  deconvolution of immunopeptidomes. Nat. Biotechnol. 37, 1283-1286 (2019).
+#
+####################
+Peptide	Context	BestAllele	%Rank_best	Core_best	CoreP1_best	SubSpec_best	%Rank_DRB1_03_01	CoreP1_DRB1_03_01	SubSpec_DRB1_03_01	%Rank_DRB1_04_01	CoreP1_DRB1_04_01	SubSpec_DRB1_04_01
+MSITQGINKTWRVLQ		DRB1_03_01	46.2	INKTWRVLQ	7	1	46.2	7	1	81.4	7	1
+SITQGINKTWRVLQW		DRB1_03_01	20.3	INKTWRVLQ	6	1	20.3	6	1	53.2	6	1
+ITQGINKTWRVLQWT		DRB1_03_01	8.1	INKTWRVLQ	5	1	8.1	5	1	33.8	5	1
+TQGINKTWRVLQWTR		DRB1_03_01	6.42	INKTWRVLQ	4	1	6.42	4	1	26.9	4	1
+QGINKTWRVLQWTRV		DRB1_03_01	15.5	INKTWRVLQ	3	1	15.5	3	1	40.8	3	1
+GINKTWRVLQWTRVK		DRB1_03_01	38.5	INKTWRVLQ	2	1	38.5	2	1	69.5	6	1
+INKTWRVLQWTRVKE		DRB1_04_01	50.6	WRVLQWTRV	5	1	54.4	7	1	50.6	5	1
+NKTWRVLQWTRVKEL		DRB1_03_01	25.6	VLQWTRVKE	6	1	25.6	6	1	40.9	4	1
+KTWRVLQWTRVKELG		DRB1_03_01	10.7	VLQWTRVKE	5	1	10.7	5	1	60.6	5	1
+TWRVLQWTRVKELGE		DRB1_03_01	8.71	VLQWTRVKE	4	1	8.71	4	1	49.4	4	1
