@@ -1,0 +1,11 @@
+comparison	level	test	statistic	p_value
+T1D_vs_HC	cell	Fisher_OR	0.532	0.068
+T1D_vs_Pre	cell	Fisher_OR	0.236	4.647e-06
+HC_vs_Pre	cell	Fisher_OR	0.445	0.004373
+T1D_vs_HC	donor	Wilcoxon_W	6.0	0.5186
+T1D_vs_Pre	donor	Wilcoxon_W	1.0	0.05281
+HC_vs_Pre	donor	Wilcoxon_W	1.0	0.1904
+all_three	donor	Kruskal_chi2	4.949	0.08422
+T1D_vs_HC	cell	Wilcoxon_W	48206656	0.06445
+T1D_vs_Pre	cell	Wilcoxon_W	28885632	2.115e-06
+HC_vs_Pre	cell	Wilcoxon_W	27233096	0.002546

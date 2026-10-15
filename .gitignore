@@ -1,6 +1,34 @@
-data/raw/
-data/processed/
-logs/*.log
+# ============================================================
+# Large data — do not commit (keep on external drive)
+# ============================================================
+data/
+tools/
+
+# ============================================================
+# Manuscript working files (only final version goes up)
+# ============================================================
+manuscript.docx
+manuscript_dump*.txt
+manuscript.Rmd.broken
+manuscript_v1.Rmd
+manuscript_old_*.Rmd
+*.docx
+~$*.docx
+
+# ============================================================
+# R / Python
+# ============================================================
+.Rproj.user/
 .Rhistory
 .RData
+.Ruserdata
 __pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# ============================================================
+# OS
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini

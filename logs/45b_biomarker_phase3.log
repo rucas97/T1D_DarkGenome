@@ -1,0 +1,42 @@
+
+======================================================================
+GSE130279: Circulating leukocytes lncRNA array, 6 T1D vs 6 HC
+======================================================================
+  [suppl] 3 files
+    [download] filelist.txt (0.0 MB)
+      no SIMALR in GSE130279_filelist.txt
+  [matrix] 2 files
+    [download] GSE130279_series_matrix.txt.gz (0.0 MB)
+      no SIMALR in GSE130279_GSE130279_series_matrix.txt.gz
+
+======================================================================
+GSE131528: Sorted monocytes RNA-seq, T1D progression
+======================================================================
+  [suppl] 3 files
+    [download] filelist.txt (0.0 MB)
+      no SIMALR in GSE131528_filelist.txt
+  [matrix] 3 files
+    [download] GSE131528-GPL16791_series_matrix.txt.gz (0.0 MB)
+      no SIMALR in GSE131528_GSE131528-GPL16791_series_matrix.txt.gz
+    [download] GSE131528-GPL570_series_matrix.txt.gz (11.6 MB)
+      no SIMALR in GSE131528_GSE131528-GPL570_series_matrix.txt.gz
+
+======================================================================
+GSE316337: scRNA-seq PBMC, 27 T1D + 27 HC
+======================================================================
+  [suppl] 4 files
+    [download] GSE316337_barcodes.tsv.gz (1.8 MB)
+      no SIMALR in GSE316337_GSE316337_barcodes.tsv.gz
+    [download] GSE316337_features.tsv.gz (0.2 MB)
+      *** 1 SIMALR HITS in GSE316337_GSE316337_features.tsv.gz ***
+        [LINC02528] LINC02528	LINC02528	Gene Expression
+    [skip big] GSE316337_matrix.mtx.gz (3062.0 MB)
+  [matrix] 2 files
+    [download] GSE316337_series_matrix.txt.gz (0.0 MB)
+      no SIMALR in GSE316337_GSE316337_series_matrix.txt.gz
+
+
+######################################################################
+# FINAL SUMMARY
+######################################################################
+  GSE316337 / GSE316337_features.tsv.gz: 1 hits

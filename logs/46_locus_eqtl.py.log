@@ -1,0 +1,24 @@
+============================================================
+rs6920220 — T1D risk variant at the TNFAIP3/SIMALR locus
+============================================================
+
+=== GWAS Catalog: diseases associated with rs6920220 ===
+  error: HTTP Error 410: Gone
+
+=== GTEx v8: eQTLs for SIMALR (ENSG00000226004) ===
+  ENSG00000226004: 0 eQTLs
+  ENSG00000226004.1: 0 eQTLs
+
+=== GTEx v8: eQTLs for TNFAIP3 (positive control) ===
+  0 eQTLs, top 5:
+
+=== rs6920220 specifically — GTEx variant lookup ===
+{
+  "data": [],
+  "paging_info": {
+    "numberOfPages": 0,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 0
+  }
+}

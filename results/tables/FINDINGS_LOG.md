@@ -225,3 +225,67 @@ cortisol/glucocorticoid treatments in islets.
 - Immunopeptidomics cross-check (42_immunopeptidomics_crosscheck.R)
 - Mendelian Randomization (41_mendelian_randomization.R)
 - Write manuscript
+
+## ============================================================
+## SESSION 2 ADDITIONS (2026-10-15)
+## ============================================================
+
+## Finding 25 (NEGATIVE): Immunopeptidomics — no SIMALR peptides in MSV000093843
+- Dataset: Nanaware 2025 Cell Rep, cytokine-treated human islets, Stern lab
+- Files: 7 of 12 mzid (islet DQ/DR/DP + W632 + spleen controls)
+- Total peptides searched: 7,507
+- SIMALR search space: 4,474 ORF k-mers (8-15 aa) + 14 cores + 10 binders
+- Result: ZERO hits
+- Interpretation: consistent with macrophage restriction + shallow bulk islet
+  immunopeptidome depth. Not definitive negative for presentation.
+- Script: scripts/42a_mzid_search.py
+
+## Finding 26 (SUGGESTIVE): GSE212381 SIMALR ASO KD in HMDM
+- Cynn 2023, control ASO vs SIMALR ASO, LPS/IFNγ 8h, n=3
+- SIMALR log2FC = -0.85, q=0.999 (partial KD)
+- Canonical NF-κB axis: flat, q=0.999
+- Selective chemokines down: CXCL1 -1.10, CXCL3 -0.97, IL12A -1.51, CCL1 -1.64
+- Direction is OPPOSITE islet prediction -> hypothesis shift to "macrophage
+  survival factor" model
+- Script: scripts/42b_GSE212381_functional.py
+
+## Finding 27 (INDEPENDENT): SIMALR validated as TB biomarker in blood
+- PLoS Pathogens 2025 (Xu et al., PMID 41308682)
+- PBMC upregulation, CD14+ monocyte enrichment, correlation with severity
+- CRISPR KO: reduced Mtb survival + elevated IL-1β
+
+## Finding 28 (INDEPENDENT): Bgee monocyte gold quality (79.84)
+
+## Finding 29: eQTL context
+- GTEx v8: rs6920220 not a cis-eQTL for TNFAIP3 or SIMALR
+- SIMALR has 33 testis eQTLs, none in blood at rest
+- Published: rs6920220 is TNFAIP3 cis-eQTL in cases but not controls
+
+## Finding 30 (NEGATIVE): GSE316337 27 T1D + 27 HC + 3 Pre scRNA-seq
+- 727 SIMALR+ / 376,996 cells (0.19%)
+- T1D 0.200% vs HC 0.185%, Fisher p~0.3
+- SIMALR detectable in blood but not disease-differential at rest
+- Script: scripts/48_GSE316337_SIMALR.py
+
+## Finding 31 (SUGGESTIVE): GSE221297 monocyte scRNA
+- 6 T1D, 3 HC, 3 Pre; 143,974 cells post-QC; 25,388 monocytes
+- SIMALR+ rate: Pre 0.541%, HC 0.241%, T1D 0.128%
+- Donor-level: T1D vs HC p=0.52, T1D vs Pre p=0.053, HC vs Pre p=0.19
+- Pre > HC > T1D pattern, but n=3 Pre donors, one HC donor overlaps Pre range
+- Cell-level p-values are pseudoreplication; donor-level is honest test
+- Script: scripts/47_GSE221297_monocyte_SIMALR.R, 47b_GSE221297_resume.R
+
+## Finding 32: Islet pcHi-C locus architecture (Miguel-Escalada 2019)
+- Single TAD contains SIMALR + TNFAIP3 + rs6920220: chr6:138,017,057-138,278,582
+- TNFAIP3 PAT spans chr6:138,017,057-138,268,650 (includes risk + SIMALR)
+- rs6920220 in Inactive_enhancer (resting islets)
+- SIMALR 3' end: Strong_CTCF (chr6:138,265,921-138,266,533)
+- SIMALR downstream: Active_enhancer_II (chr6:138,271,019-138,272,255)
+- SIMALR promoter NOT baited in islet pcHi-C panel
+- TNFAIP3 baited but no high-confidence baseline interactions
+- Script: scripts/49_islet_pchic_analysis.py
+
+## Finding 33 (IN PROGRESS): HPAP PanKbase islet atlas
+- Zenodo 15611730, v3.4, 9.27 GB RDS, downloading
+- Purpose: SIMALR in T1D islet macrophages
+- Script: scripts/50_hpap_macrophage.R

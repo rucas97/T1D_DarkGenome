@@ -1,0 +1,4 @@
+group	n_cells	pct_detected	mean_expr	median_expr
+HC	9534	0.241	0.00158	0
+Pre	5730	0.541	0.00319	0
+T1D	10124	0.128	0.00106	0
